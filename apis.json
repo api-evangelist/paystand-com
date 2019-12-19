@@ -1,0 +1,56 @@
+{
+    "name": "PayStand.com",
+    "description": "<p>PayStand is a next generation payment &amp; eCommerce checkout system that enables any organization to receive money in their Website, Social Network, or Web Application without transaction costs. We are the first multi-payment gateway that accepts credit cards (Visa\/MasterCard\/Amex\/Discover), eCheck (ACH\/Dwolla), and eCash (Bitcoins) with 0% transaction fees.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pay-stand.jpg",
+    "tags": [
+        "have api",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paystand-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PayStand.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pay-stand.jpg",
+            "humanURL": "http:\/\/www.paystand.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paystand-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.paystand.com\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.paystand.com\/developers\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.paystand.com\/pricing"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.paystand.com\/plans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/paystand"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.paystand.com\/"
+        }
+    ]
+}
